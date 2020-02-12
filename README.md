@@ -1,7 +1,7 @@
 # WPA2 Enterprise (EAP-TLS) with ESP32
 
 Ingredients:
-- ESP8266 (NodeMCU, WeMos, etc.)
+- ESP32
 - Arduino IDE
 - certificate in hex array format 
 
